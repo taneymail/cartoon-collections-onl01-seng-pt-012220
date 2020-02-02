@@ -12,3 +12,4 @@ def summon_captain_planet(array)
     a.capitalize << "!"
 end
 end 
+
