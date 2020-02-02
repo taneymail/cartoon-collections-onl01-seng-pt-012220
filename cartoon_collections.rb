@@ -1,4 +1,5 @@
 def roll_call_dwarves
+end
 
 def roll_call_dwarves(dwarves)
   dwarves.map.with_index do |a,index|
